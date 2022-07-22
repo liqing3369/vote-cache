@@ -1,4 +1,4 @@
-module vote-cache
+module gitee.com/lee0771/vote-cache
 
 go 1.17
 

@@ -3,8 +3,8 @@ package api
 import (
 	"context"
 	"fmt"
-	"vote-cache/constant"
-	"vote-cache/global"
+	"gitee.com/lee0771/vote-cache/constant"
+	"gitee.com/lee0771/vote-cache/global"
 )
 
 type ActivityApi struct {

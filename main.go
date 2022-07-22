@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "vote-cache/core"
+	_ "gitee.com/lee0771/vote-cache/core"
 )
 
 func main() {

@@ -2,15 +2,15 @@ package core
 
 import (
 	"fmt"
+	"gitee.com/lee0771/vote-cache/config"
+	"gitee.com/lee0771/vote-cache/global"
+	"gitee.com/lee0771/vote-cache/utils"
 	rotatelogs "github.com/lestrrat/go-file-rotatelogs"
 	oplogging "github.com/op/go-logging"
 	"io"
 	"os"
 	"strings"
 	"time"
-	"vote-cache/config"
-	"vote-cache/global"
-	"vote-cache/utils"
 )
 
 const (

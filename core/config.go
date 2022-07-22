@@ -2,9 +2,9 @@ package core
 
 import (
 	"fmt"
+	"gitee.com/lee0771/vote-cache/global"
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
-	"vote-cache/global"
 )
 
 const defaultConfigFile = "config.yaml"
