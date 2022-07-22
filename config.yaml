@@ -1,0 +1,12 @@
+# redis configuration
+redis:
+  addr: '47.108.251.138:6379'
+  password: 'liqing123456'
+  db: 0
+
+# logger configuration
+log:
+  prefix: '[VOTE]'
+  log-file: true
+  stdout: 'DEBUG'
+  file: 'DEBUG'
